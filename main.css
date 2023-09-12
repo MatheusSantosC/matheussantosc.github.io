@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ff3f3f;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #ff3f3f;
+    color: #000000;
+    text-align: center;
+    padding: 20px;
+}
+
+main {
+    text-align: center;
+    margin: 20px;
+}
+
+.card {
+    background-color: #ff3f3f;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+footer {
+    text-align: center;
+    background-color: #000000;
+    color: #fff;
+    padding: 10px;
+}
